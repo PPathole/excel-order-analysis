@@ -40,7 +40,7 @@ This project involves analyzing order data using Excel. The dataset includes col
    ```
 
 2. **Open the Excel File:**
-   - Open the `OrderData.xlsx` file in Excel.
+   - Open the `Store-Sales-2012 Raw.xlsx` file in Excel.
 
 3. **Data Validation:**
    - Follow the steps under `Features > Data Validation` to set up the drop-down list for `Ship Mode`.
